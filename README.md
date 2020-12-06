@@ -55,3 +55,5 @@ for more information about the OpenSubtitles.org api user agent from [here](http
 ## Frontend API
 
 > Soon
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kokoamartin/live-torrent)
